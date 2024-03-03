@@ -1,0 +1,29 @@
+
+g	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(Æ’ÃÏÿÿÿÿÿ8Òäúß1
+l
+java:S1192-"VDefine a constant instead of duplicating this literal "Embeded Web Container" 3 times.(ÎØº‹
+h
+java:S1192U"RDefine a constant instead of duplicating this literal "Metadata Explorer" 3 times.(¸¨óü
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ó®‹>
+<
+java:S1659"!Declare "fim" on a separate line.(›íàüÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(—†“·ıÿÿÿÿ
+H
+java:S1135#"2Complete the task associated to this TODO comment.(Ú»ï
+7
+java:S1110?"!Remove these useless parentheses.(¸ş
+E
+java:S1197Q"*Move the array designators [] to the type.(¿ßÎûÿÿÿÿ
+=
+java:S1872S"'Use an "instanceof" comparison instead.(‚¤«ª
+B
+java:S1872W"'Use an "instanceof" comparison instead.(œœøÔüÿÿÿÿ
+m
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Æ’ÃÏÿÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(Èú¬Èıÿÿÿÿ
+=
+java:S1872w"'Use an "instanceof" comparison instead.(ï™áÃ
+>
+java:S1872„"'Use an "instanceof" comparison instead.(šÖ§
+W	java:S125’"<This block of commented-out lines of code should be removed.(øÖ€éúÿÿÿÿ

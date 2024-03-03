@@ -1,0 +1,13 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(בן»כ
+z
+java:S1319"dThe type of "instace" should be an interface such as "Map" rather than the implementation "HashMap".(בן»כ
+i
+java:S1104"SMake instace a static final constant or non-public and provide accessors if needed.(בן»כ
+C
+java:S1444"-Make this "public static instace" field final(בן»כ
+3
+java:S2386"Make this member "protected".(בן»כ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(תƒעֶûÿÿÿÿ

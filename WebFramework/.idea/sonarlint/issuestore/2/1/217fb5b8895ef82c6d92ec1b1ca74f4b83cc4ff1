@@ -1,0 +1,13 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Åüÿÿÿÿ
+
+java:S1319"dThe type of "objects" should be an interface such as "Map" rather than the implementation "HashMap".(¯Åüÿÿÿÿ
+n
+java:S1104"SMake objects a static final constant or non-public and provide accessors if needed.(¯Åüÿÿÿÿ
+H
+java:S1444"-Make this "public static objects" field final(¯Åüÿÿÿÿ
+8
+java:S2386"Make this member "protected".(¯Åüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ùšË¹ÿÿÿÿÿ

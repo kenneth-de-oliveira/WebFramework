@@ -1,0 +1,16 @@
+
+g
+java:S1192"QDefine a constant instead of duplicating this literal "WebFrameworkUtil" 3 times.(èÉ‚œ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¾ž÷˜ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÕãÈ¡øÿÿÿÿ
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¾Æ•·ûÿÿÿÿ
+B
+java:S1872,"'Use an "instanceof" comparison instead.(ÚÌ½Óûÿÿÿÿ
+=
+java:S18720"'Use an "instanceof" comparison instead.(¿ºÇ¿
+B
+java:S1872:"'Use an "instanceof" comparison instead.(·«üýÿÿÿÿ
+B
+java:S1872;"'Use an "instanceof" comparison instead.(ñïòùÿÿÿÿ

@@ -1,0 +1,13 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Ôíû
+‚
+java:S1319"lThe type of "implementations" should be an interface such as "Map" rather than the implementation "HashMap".(¦Ôíû
+q
+java:S1104"[Make implementations a static final constant or non-public and provide accessors if needed.(¦Ôíû
+K
+java:S1444"5Make this "public static implementations" field final(¦Ôíû
+3
+java:S2386"Make this member "protected".(¦Ôíû
+U
+java:S1118":Add a private constructor to hide the implicit public one.(µÁÛýùÿÿÿÿ

@@ -1,0 +1,27 @@
+
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(£”ý£ýÿÿÿÿ
+h	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(®á­Äøÿÿÿÿ8àÉäúß1
+z
+java:S11926"_Define a constant instead of duplicating this literal "WebFrameworkDispatcherServlet" 10 times.(Úª±üýÿÿÿÿ
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–õ°÷
+V	java:S125*"<This block of commented-out lines of code should be removed.(Ï¬§Åýÿÿÿÿ
+H
+java:S11353"2Complete the task associated to this TODO comment.(½ó·
+H
+java:S1135H"2Complete the task associated to this TODO comment.(½ñ†—
+G
+java:S1135I"2Complete the task associated to this TODO comment.(ùœÎU
+M
+java:S1135R"2Complete the task associated to this TODO comment.(éØ¸Ãüÿÿÿÿ
+Q	java:S125W"<This block of commented-out lines of code should be removed.(áãÿ²
+H
+java:S1135e"2Complete the task associated to this TODO comment.(‘Åå´
+=
+java:S1872n"'Use an "instanceof" comparison instead.(ï™áÃ
+=
+java:S1872}"'Use an "instanceof" comparison instead.(šÖ§
+C
+java:S3011ª",This accessibility update should be removed.(³žÃ¸
+C
+java:S3011«",This accessibility bypass should be removed.(óœ¼
