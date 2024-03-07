@@ -32,4 +32,4 @@ Para utilizar este repositório, siga as instruções abaixo:
 Contribuições são sempre bem-vindas! Se você tem uma sugestão para melhorar este framework ou os testes, sinta-se à vontade para fazer um fork do repositório, realizar as mudanças e submeter uma pull request.
 
 ## Contato :mailbox_with_mail:
-Para mais informações, dúvidas ou feedback, por favor, entre em contato através de eduardohmferreira@gmail.com
+Para mais informações, dúvidas ou feedback, por favor, entre em contato através de kennetholiveira2015@gmail.com
